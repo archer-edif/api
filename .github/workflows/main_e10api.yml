@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'E10API'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D89B95C03F1D42E39E7A8162D6B13510 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BD2A901BE9D54936BD5DDFDCAC0748EA }}
           package: .
