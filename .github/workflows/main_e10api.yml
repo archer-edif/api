@@ -5,7 +5,7 @@ name: Build and deploy ASP app to Azure Web App - E10API
 
 on:
   push:
-    branches:
+    branches: 
       - main
   workflow_dispatch:
 
